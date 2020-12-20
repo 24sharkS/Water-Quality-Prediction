@@ -34,5 +34,6 @@ To run the scripts the following software and library dependencies must be insta
 - `Weights` - This folder contains the best performing model objects for prediction of WQI and classification of water quality respectively.
 	- `best_cl_x.obj` - SVM model corresponding to water quality classification using x number of features.
 	- `best_reg_x.obj` - SVR model corresponding to WQI prediction using x  numbers of features.
+- `Report` - This is the final report summarizing the project.
 
 
