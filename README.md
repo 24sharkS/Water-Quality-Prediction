@@ -1,9 +1,9 @@
 ﻿# Water Quality Prediction
 
 ### Authors
-- [Shekhar Shukla](https://github.com/24sharkS)|2018414
-- [Sarthak Arora](https://github.com/sarthak144)|2018307
-- [Sajeel Khan](https://github.com/khansajeel)|2018342
+- [Shekhar Shukla](https://github.com/24sharkS) | 2018414
+- [Sarthak Arora](https://github.com/sarthak144) | 2018307
+- [Sajeel Khan](https://github.com/khansajeel) | 2018342
 
 ### Introduction
 The main motivation to explore this topic comes from the continuous degradation of the environment, which leads to various diseases and substandard living for people facing that degradation in their local habitats. The regular methods require lab analyses which prove to be costly and time consuming. Many countries don’t even have the required instruments to measure water quality.
